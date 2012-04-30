@@ -2,9 +2,9 @@ require 'formula'
 
 class Filevault < Formula
   homepage 'http://dev.day.com/docs/en/crx/current/how_to/how_to_use_the_vlttool.html'
-  url 'http://repo.adobe.com/archiva/repository/day-central/com/day/jcr/vault/vault-cli/2.3.24/vault-cli-2.3.24-assembly.tar.gz'
-  md5 'e44d9f78cbf37b4a7162664056c2cc27'
-  version '2.3.24'
+  url 'http://repo.adobe.com/archiva/repository/day-central/com/day/jcr/vault/vault-cli/2.4.24/vault-cli-2.4.24-assembly.tar.gz'
+  md5 '2f274da393c4027069a8fc53a8272d79'
+  version '2.4.24'
 
   def install
     # Remove windows files
