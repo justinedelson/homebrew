@@ -3,7 +3,7 @@ require 'formula'
 class Filevault < Formula
   homepage 'http://dev.day.com/docs/en/crx/current/how_to/how_to_use_the_vlttool.html'
   url 'http://repo.adobe.com/archiva/repository/day-central/com/day/jcr/vault/vault-cli/2.4.34/vault-cli-2.4.34-assembly.tar.gz'
-  md5 '5caca0537343b147fb4c3d0773268d08'
+  md5 'cd5ff574979b3edf702e75675e04d139'
   version '2.4.34'
 
   def install
